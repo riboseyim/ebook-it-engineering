@@ -1,6 +1,6 @@
-# eBook: IT Engineer
+# IT Engineering
 
-## 作者：[RiboseYim](https://riboseyim.github.io)
+## Author：[RiboseYim](https://riboseyim.github.io)
 
 >工程师
 
@@ -14,14 +14,12 @@
 
 ### 特色章节
 
-
 ## Community
 
 [>>> 简书专题：《系统运维专家》](http://www.jianshu.com/c/9a817d8a67ea)
 
 **小密圈：**
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_ops_small.png)
-
 
 ### Latest Version
 
