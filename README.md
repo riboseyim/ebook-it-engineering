@@ -29,6 +29,11 @@ https://www.gitbook.com/book/riboseyim/linux-it-engineering/details
 
 Thanks to my family and colleagues.
 
+<hr>
+更多精彩内容请扫码关注公众号,[RiboseYim's Blog:riboseyim.github.io](https://riboseyim.github.io?product=ebook&id=engineering)
+<hr>
+![微信公众号@睿哥杂货铺](http://o8m8ngokc.bkt.clouddn.com/ID_RiboseYim_201706.png)
+
 
 ## License
 
@@ -45,10 +50,3 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 2. NonCommercial — You may not use the material for commercial purposes.
 3. NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 4. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-<hr>
-更多精彩内容，请扫码关注公众号：@睿哥杂货铺
-
-[RSS订阅 RiboseYim](https://riboseyim.github.io?product=ebook&id=linuxperfmaster)
-
-![微信公众号](http://o8m8ngokc.bkt.clouddn.com/qrcode_for_gh_896dd3dd5255_344.jpg)
